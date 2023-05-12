@@ -12,6 +12,7 @@ Features:
 How to run:
 - Download repository
 - Open downloaded repository with a command line interface
+- run `pip install Jinja2`
 - run `pip install flask`
 - run `pip install Flask-WTF`
 - run `pip install wtforms`
